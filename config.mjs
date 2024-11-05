@@ -1,3 +1,5 @@
+// escape the backslash by adding a single backslash behind the backslash if you are from Windows, such as "C:\\Users\\User\\Videos\\nvidia record"
+
 export const ROOT_DIR_PATH = "";
 
 export const DESTINATION_DIR_PATH = "";
